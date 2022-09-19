@@ -122,7 +122,7 @@ HW_1*
       
         - В теле if поставить continue
         
-13.3 Выйти з if. Вывести в консоль (‘End_iteration =’, item)
+13.3 Выйти из if. Вывести в консоль (‘End_iteration =’, item)
 
 
 HW_2
